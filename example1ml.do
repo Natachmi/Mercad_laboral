@@ -1,10 +1,14 @@
 *** Wi wi wi hey ey ey 
 <<<<<<< HEAD
+<<<<<<< HEAD
 *****************+++++++ DASDJASBDKJASHKGAK.DHJ,DSF.KGSDBS,J
 =======
 ** HOLA GRUPO! 
 * no al bullyng
 >>>>>>> 8101f7ffc90ad8b7ec81dd490711e789defb3507
+=======
+
+>>>>>>> parent of ddf4b26... Comentario
 
 * Salario por hora
  capture drop yprijb_hrs
