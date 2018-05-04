@@ -1,5 +1,5 @@
 *** Wi wi wi hey ey ey 
-
+*****************+++++++ DASDJASBDKJASHKGAK.DHJ,DSF.KGSDBS,J
 
 * Salario por hora
  capture drop yprijb_hrs
