@@ -1,4 +1,6 @@
 *** Wi wi wi hey ey ey 
+
+
 * Salario por hora
  capture drop yprijb_hrs
  gen yprijb_hrs=yprijb/phrs
