@@ -13,7 +13,7 @@
  capture drop underin
  gen underin=(tothrs>=40 & yprijb<z)
  **recode** 
- recode underin *=. if emppri!=1
+LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
 
  * ! WIIIIIII
  * hey ey ey 
