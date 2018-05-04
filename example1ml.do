@@ -1,5 +1,6 @@
 *** Wi wi wi hey ey ey 
-
+** HOLA GRUPO! 
+* no al bullyng
 
 * Salario por hora
  capture drop yprijb_hrs
@@ -18,7 +19,11 @@
  * ! WIIIIIII
  * hey ey ey 
  *he
+<<<<<<< HEAD
 
  *shares
  gen uno=1
  
+=======
+ * 
+>>>>>>> 8101f7ffc90ad8b7ec81dd490711e789defb3507
