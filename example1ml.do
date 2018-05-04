@@ -1,6 +1,10 @@
 *** Wi wi wi hey ey ey 
+<<<<<<< HEAD
+*****************+++++++ DASDJASBDKJASHKGAK.DHJ,DSF.KGSDBS,J
+=======
 ** HOLA GRUPO! 
 * no al bullyng
+>>>>>>> 8101f7ffc90ad8b7ec81dd490711e789defb3507
 
 * Salario por hora
  capture drop yprijb_hrs
@@ -14,7 +18,7 @@
  capture drop underin
  gen underin=(tothrs>=40 & yprijb<z)
  **recode** 
- recode underin *=. if emppri!=1
+LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
 
  * ! WIIIIIII
  * hey ey ey 
